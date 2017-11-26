@@ -1,2 +1,2 @@
 # FEF_Session9Assignment1
-Make a Sample Page with a Menu using Nav at the Top and the Footer as copyright at the bottom of the page you can use Glyphicons in bootstrap for copyright image. That form should be your Blog.
+ Create a popover in bootstrap. Click the button to display the popover.
